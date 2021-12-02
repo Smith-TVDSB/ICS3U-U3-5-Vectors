@@ -24,7 +24,7 @@ TEST_CASE("Exercise Three")
 {
     CHECK(exerciseThree({"banana","apple","orange","grapes","pear"}) == "apple");
     CHECK(exerciseThree({"squirtle", "charmander", "bulbasaur","pikachu"}) == "bulbasaur");
-    CHECK(exerciseThree({"z","x","y","h","t","c"}) == "c")
+    CHECK(exerciseThree({"z","x","y","h","t","c"}) == "c");
 }
 
 // Notes for teacher: 
