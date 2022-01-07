@@ -8,12 +8,12 @@ using namespace std;
 // implementations
 
 //Replace string function
-int exerciseTwo(vector<int> vect, int searchTerm)
+int exerciseOne(vector<int> vect, int searchTerm)
 {
 	return -2; // TODO: fix
 }
 
-string exerciseThree(vector<string> vect)
+string exerciseTwo(vector<string> vect)
 {
 	return "0"; // TODO: fix
 }
